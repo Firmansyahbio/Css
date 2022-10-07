@@ -23,3 +23,6 @@ body {
   border-radius: 50%;
   border: 2px #eaeef6 solid;
 }
+p {
+  line-height: 1.5em;
+}
