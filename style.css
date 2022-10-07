@@ -44,7 +44,7 @@ p {
   border-radius: 0px;
 }
 .container_notebook .cardtext {
-  /*background: #fff;*/
+  text-align: left;
   box-sizing: border-box;
   padding-bottom: 15px;
   margin-bottom: 15px;
@@ -101,7 +101,8 @@ p {
   width: 100%;
   transform: scale(40);
 }
-.container_notebook .cardtext:hover h5{
+.cardtext p { font-size: 18px;}
+.container_notebook .cardtext:hover h2{
   color: #ffffff;
 }
 .container_notebook .cardtext p{
