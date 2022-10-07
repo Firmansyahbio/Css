@@ -17,3 +17,9 @@ body {
   text-align: center;
   box-sizing: border-box;
 }
+.box-img img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px #eaeef6 solid;
+}
