@@ -10,7 +10,7 @@ body {
   height: 50px;
 }
 .navigator {
-  position: relative;
+  position: fixed;
   width: 100%;
   height: 50px;
   background: #fff;
@@ -43,7 +43,7 @@ body {
 }
 .menu-btn {
   cursor: pointer;
-  position: relative;
+  position: fixed;
   width: 40px;
   height: 40px;
   border-radius: 5px;
@@ -80,7 +80,7 @@ body {
 }
 .main-nav {
   right: 20px;
-  position: absolute;
+  position: fixed;
   z-index: 9000;
   display: flex;
   align-items: center;
@@ -131,7 +131,7 @@ body {
   }
 .main-nav ul.main-menu {
   display: block;
-  position: absolute;
+  position: fixed;
   top:0;
   left: 0;
   z-index: 50;
