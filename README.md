@@ -1,4 +1,4 @@
-# [Desain](https://firmansyahbio.github.io/web-design)
+# [Desain](https://firmansyahbio.github.io/design)
 
 [![npm][version]][npm-url]
 [![License][license]][npm-url]
