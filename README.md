@@ -1,4 +1,4 @@
-# [Desain](https://firmansyahbio.github.io/design)
+# [Desain](https://firmansyahbio.blogspot.com/p/design.html)
 
 [![npm][version]][npm-url]
 [![License][license]][npm-url]
@@ -16,11 +16,11 @@
 
 React Pro Sidebar provides a set of components for creating high level and customizable side navigation
 
-## Old versions
+## Halaman
 
-- [v0.x](https://github.com/azouaoui-med/react-pro-sidebar/tree/v0.x)
+- [Utama](https://firmansyahbio.github.io/design)
 
-## Live Preview
+## Demo
 
 - [Demo](https://azouaoui-med.github.io/react-pro-sidebar/iframe.html?id=playground--playground&args=&viewMode=story)
 
